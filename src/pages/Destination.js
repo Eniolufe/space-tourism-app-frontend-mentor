@@ -15,7 +15,7 @@ export default function Destination() {
   return (
     <>
       <div className="destination">
-        <section className="md:h-screen h-full px-2 pt-5 md:text-left text-center">
+        <section className="md:h-full h-full px-2 pt-5 md:text-left text-center">
           <h1 className="text-white text-2xl uppercase pt-24 md:pt-24 md:px-20">
             <span className="font-bold text-[#ffffff70] ">01</span> Pick a
             Destination
